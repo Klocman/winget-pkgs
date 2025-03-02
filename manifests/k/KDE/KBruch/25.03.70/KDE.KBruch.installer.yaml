@@ -1,4 +1,4 @@
-# Created with YamlCreate.ps1 v2.4.3 $debug=NVS1.CRLF.7-4-6.Win32NT
+# Created with YamlCreate.ps1 Dumplings Mod
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
 
 PackageIdentifier: KDE.KBruch
@@ -9,14 +9,14 @@ ProductCode: kbruch
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-644-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: AE6C6084576319A696AB153DD2492270165156CC0302FB0F498E0254D2EC7791
+  InstallerUrl: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-651-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 7C8C282BE64CCADA90ABA12F9404A65587DACFABA199178A892C4AD258573279
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-644-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: AE6C6084576319A696AB153DD2492270165156CC0302FB0F498E0254D2EC7791
+  InstallerUrl: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-651-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 7C8C282BE64CCADA90ABA12F9404A65587DACFABA199178A892C4AD258573279
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
