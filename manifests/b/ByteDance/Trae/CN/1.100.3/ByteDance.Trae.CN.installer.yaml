@@ -152,14 +152,14 @@ FileExtensions:
 - yml
 - zsh
 ProductCode: '{98EB0EF0-1DE3-4838-B14A-3B0DC4570E8B}_is1'
-ReleaseDate: 2025-07-01
+ReleaseDate: 2025-07-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.15069/win32/Trae%20CN-Setup-x64.exe
-  InstallerSha256: ADD130984090C9FE6F42D6734288FE9DCDBB5B9994A658572438582D60033F92
+  InstallerUrl: https://lf-cdn.trae.ai/obj/trae-ai-us/pkg/app/releases/stable/1.0.15579/win32/Trae%20CN-Setup-x64.exe
+  InstallerSha256: B5372A4CF0147308C44582EBA40F3E6072433E259F4F8A7AB95BD45793EC2B0B
 - InstallerLocale: zh-CN
   Architecture: x64
-  InstallerUrl: https://lf-cdn.trae.com.cn/obj/trae-com-cn/pkg/app/releases/stable/1.0.15069/win32/Trae%20CN-Setup-x64.exe
-  InstallerSha256: ADD130984090C9FE6F42D6734288FE9DCDBB5B9994A658572438582D60033F92
+  InstallerUrl: https://lf-cdn.trae.com.cn/obj/trae-com-cn/pkg/app/releases/stable/1.0.15579/win32/Trae%20CN-Setup-x64.exe
+  InstallerSha256: B5372A4CF0147308C44582EBA40F3E6072433E259F4F8A7AB95BD45793EC2B0B
 ManifestType: installer
 ManifestVersion: 1.10.0
